@@ -10,10 +10,6 @@ description: Fullstack Developer (Vue 3, Nuxt 4, Laravel)
 
     ::v-card{title="Chào bạn, tôi là Ken" subtitle="Fullstack Developer | Nuxt & Laravel" class="text-center" variant="tonal"}
 
-      ::v-avatar{size="150" class="my-4"}
-
-      ::
-
       ::v-list{density="compact" class="mx-auto" style="max-width: 300px;"}
         ::v-list-item{prepend-icon="i-mdi-email" title="contact@ken.dev"}::
           ::v-list-item{prepend-icon="i-mdi-map-marker" title="Hà Nội, Việt Nam"}::
