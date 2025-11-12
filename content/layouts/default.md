@@ -1,7 +1,7 @@
 ::v-app-bar{title="Studio"}
 ::
 
-::v-navigation-drawer
+::v-navigation-drawer{:model-value=true}
   ::v-list
     ::v-list-item{to="/" title="Home"}
     ::
