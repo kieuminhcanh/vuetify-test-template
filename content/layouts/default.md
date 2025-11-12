@@ -9,8 +9,3 @@
     ::
   ::
 ::
-
-::v-main
-  ::v-container
-  ::
-::
