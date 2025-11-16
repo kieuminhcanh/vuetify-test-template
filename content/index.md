@@ -50,7 +50,7 @@ description: Fullstack Developer (Vue 3, Nuxt 4, Laravel)
 
     ::v-card{title="Tóm tắt Cá nhân" variant="flat"}
 
-      Kỹ sư Phát triển Fullstack tập trung vào hiệu suất và trải nghiệm người dùng. Với hơn 5 năm kinh nghiệm, tôi chuyên xây dựng các ứng dụng web phức tạp sử dụng Vue 3 (Composition API) và Laravel.
+      Kỹ sư Phát triển Fullstack tập trung vào hiệu suất và trải nghiệm người dùng. Với hơn 5 năm kinh nghiệm, tôi chuyên xây dựng các ứng dụng web phức tạp sử dụng Vue 3 (Composition API) và Laravel. dfgdsfgsdgasg
 
       ::v-divider
       ::
