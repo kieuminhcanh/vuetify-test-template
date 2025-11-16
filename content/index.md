@@ -21,7 +21,7 @@ description: Fullstack Developer (Vue 3, Nuxt 4, Laravel)
 
 
 
-      ::v-avatar{size="150" class="my-4"}
+      ::v-avatar{size="150" class="my-8"}
       ::
 
 
