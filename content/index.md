@@ -6,8 +6,7 @@ description: Fullstack Developer (Vue 3, Nuxt 4, Laravel)
 ---
 
 
-::hero{orientation="horizontal" title="Modern Development Tools" description="Powerful features for developers who want to build the next big thing" color="grey-lighten-5" elevation="2" rounded="lg"}
-  #default
+::hero{orientation="horizontal" title="Modern Development Tools" description="Powerful features for developers who want to build the next big thing" color="grey-lighten-5" elevation="2" rounded="lg"}  
   ::v-img{src="https://picsum.photos/600/400" alt="Hero Image" rounded="lg"}
   ::
 ::
