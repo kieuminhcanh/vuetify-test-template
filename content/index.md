@@ -6,10 +6,31 @@ description: Fullstack Developer (Vue 3, Nuxt 4, Laravel)
 ---
 
 
-::hero{orientation="horizontal" title="Modern Development Tools" description="Powerful features for developers who want to build the next big thing" color="grey-lighten-5" elevation="2" rounded="lg"}  
-  ::v-img{src="https://picsum.photos/600/400" alt="Hero Image" rounded="lg"}
+::hero{orientation="vertical"}
+  #headline
+  ::v-chip{color="success" variant="flat" class="mb-4"}
+  NEW RELEASE
   ::
+
+  #title
+  ## Introducing Version 2.0
+
+  #description
+  Experience the next generation of web development with enhanced performance,
+  new features, and an improved developer experience.
+
+  #links
+  - text: Download Now
+    color: success
+    size: x-large
+    icon: mdi-download
+  - text: Release Notes
+    variant: text
+    to: /changelog
+  - text: Documentation
+    variant: outlined
 ::
+
 
 
 ::v-row{class="mt-8"}
