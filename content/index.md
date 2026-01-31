@@ -56,9 +56,7 @@ description: A modern professional profile template
               ::v-chip{text="Tech Enthusiast" color="white" variant="outlined" class="ma-1"}
               ::
               ```
-                        ```
-                        Passionate developer with 17+ years of experience in building modern web applications. Specialized in Vue.js, Nuxt.js, and Vuetify frameworks.       
-                        ```
+              Passionate developer with 17+ years of experience in building modern web applications. Specialized in Vue.js, Nuxt.js, and Vuetify frameworks.
                       
               ```
             ::
