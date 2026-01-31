@@ -1,6 +1,6 @@
 
 
-::v-app-bar{title="Studio"}
+::v-app-bar{title="Vuetify Studio"}
 ::
 
 
