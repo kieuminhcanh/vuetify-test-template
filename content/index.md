@@ -56,7 +56,10 @@ description: A modern professional profile template
               ::v-chip{text="Tech Enthusiast" color="white" variant="outlined" class="ma-1"}
               ::
               ```
-              Passionate developer with 17+ years of experience in building modern web applications. Specialized in Vue.js, Nuxt.js, and Vuetify frameworks.       
+                        ```
+                        Passionate developer with 17+ years of experience in building modern web applications. Specialized in Vue.js, Nuxt.js, and Vuetify frameworks.       
+                        ```
+                      
               ```
             ::
           ::
@@ -157,6 +160,7 @@ description: A modern professional profile template
             ::v-col{cols="4"}
 
               **English**
+                          
             ::
 
 
@@ -177,6 +181,7 @@ description: A modern professional profile template
             ::v-col{cols="4"}
 
               **Spanish**
+                          
             ::
 
 
@@ -197,6 +202,7 @@ description: A modern professional profile template
             ::v-col{cols="4"}
 
               **French**
+                          
             ::
 
 
@@ -224,7 +230,6 @@ description: A modern professional profile template
         ::v-card-text
 
           I am a passionate full-stack developer with extensive experience in creating modern, responsive web applications. My expertise lies in Vue.js ecosystem, particularly Nuxt.js and Vuetify, which allows me to build beautiful and performant user interfaces.Throughout my career, I've worked on various projects ranging from e-commerce platforms to enterprise SaaS applications. I believe in writing clean, maintainable code and following best practices in software development. When I'm not coding, you can find me contributing to open-source projects, writing technical blog posts, or exploring new technologies.   
-                  
         ::
       ::
 
@@ -248,10 +253,9 @@ description: A modern professional profile template
               ::v-card-text
 
                 Led the development of a new product dashboard using Vue 3 and TypeScript  
-                                - Improved application performance by 40% through code optimization  
-                                - Mentored junior developers and conducted code reviews  
-                                - Implemented CI/CD pipeline using GitHub Actions
-                              
+                                                - Improved application performance by 40% through code optimization  
+                                                - Mentored junior developers and conducted code reviews  
+                                                - Implemented CI/CD pipeline using GitHub Actions
               ::
             ::
           ::
@@ -268,10 +272,9 @@ description: A modern professional profile template
               ::v-card-text
 
                 Developed responsive web applications for various clients  
-                                - Collaborated with designers to implement pixel-perfect UIs  
-                                - Integrated REST APIs and GraphQL endpoints  
-                                - Conducted user testing and implemented feedback
-                              
+                                                - Collaborated with designers to implement pixel-perfect UIs  
+                                                - Integrated REST APIs and GraphQL endpoints  
+                                                - Conducted user testing and implemented feedback
               ::
             ::
           ::
@@ -288,10 +291,9 @@ description: A modern professional profile template
               ::v-card-text
 
                 Assisted in developing company's main web application  
-                                - Fixed bugs and implemented new features  
-                                - Participated in agile development process  
-                                - Learned best practices in software development
-                              
+                                                - Fixed bugs and implemented new features  
+                                                - Participated in agile development process  
+                                                - Learned best practices in software development
               ::
             ::
           ::
@@ -310,6 +312,7 @@ description: A modern professional profile template
           ::v-list-item{title="Bachelor of Science in Computer Science" subtitle="University of Technology · 2014 - 2018"}
 
             GPA: 3.8/4.0
+                      
           ::
 
 
@@ -320,8 +323,8 @@ description: A modern professional profile template
           ::v-list-item{title="Certifications"}
 
             - AWS Certified Developer - Associate (2022)
-                      - Vue.js Master Certification (2021)
-                      - Scrum Master Certification (2020)
+                            - Vue.js Master Certification (2021)
+                            - Scrum Master Certification (2020)
           ::
         ::
       ::
@@ -469,14 +472,17 @@ description: A modern professional profile template
                 ::
                 ```
                             ```
-                                      John is an exceptional developer who consistently delivers high-quality work.
-                                      His attention to detail and problem-solving skills are outstanding.
+                                        ```
+                                                  John is an exceptional developer who consistently delivers high-quality work.
+                                                  His attention to detail and problem-solving skills are outstanding.
 
-                                        ::v-divider{class="my-3"}
-                                        ::
+                                                    ::v-divider{class="my-3"}
+                                                    ::
 
-                                      **Sarah Johnson**
-                                      Product Manager at Tech Corp
+                                                  **Sarah Johnson**
+                                                  Product Manager at Tech Corp
+                                                  
+                                        ```
                                       
                             ```
                           
@@ -502,14 +508,17 @@ description: A modern professional profile template
                 ::
                 ```
                             ```
-                                      Working with John was a pleasure. He brought creative solutions to complex
-                                      problems and always met deadlines.
+                                        ```
+                                                  Working with John was a pleasure. He brought creative solutions to complex
+                                                  problems and always met deadlines.
 
-                                        ::v-divider{class="my-3"}
-                                        ::
+                                                    ::v-divider{class="my-3"}
+                                                    ::
 
-                                      **Michael Chen**
-                                      CTO at Digital Agency
+                                                  **Michael Chen**
+                                                  CTO at Digital Agency
+                                                  
+                                        ```
                                       
                             ```
                           
@@ -527,11 +536,13 @@ description: A modern professional profile template
 
         ::v-card-text{class="text-center py-8"}
 
-          ## Let's Work Together!``````
-                    I'm always interested in hearing about new projects and opportunities.
+          ## Let's Work Together!`````````
+                          I'm always interested in hearing about new projects and opportunities.
 
-                      ::v-btn{text="Get In Touch" variant="elevated" color="white" size="large" prepend-icon="mdi-email" class="mt-4"}
-                      ::
+                            ::v-btn{text="Get In Touch" variant="elevated" color="white" size="large" prepend-icon="mdi-email" class="mt-4"}
+                            ::
+                          
+                      ```
                     
                 ```
               
